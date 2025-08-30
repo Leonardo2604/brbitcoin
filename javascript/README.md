@@ -1,6 +1,6 @@
 # 🇧🇷 BrBitcoin Javascript SDK
 
-![hello-world](https://github.com/user-attachments/assets/65597643-95cf-4583-8653-26eb2deb3fc9)
+![hello-world](https://github.com/user-attachments/assets/4953259b-d889-4c74-ae3f-432f564dee83)
 
 ## Design Principles
 
